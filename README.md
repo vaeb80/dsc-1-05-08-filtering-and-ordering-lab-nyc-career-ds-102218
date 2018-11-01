@@ -48,4 +48,4 @@ Write your SQL queries in the `select.py` file.  Fill the empty string in each m
 
 ## Summary
 
-Great work! In this lab we practiced writing more complex SQL statements to not only query specific information but also define the quantity of results and the order of our results. 
+Great work! In this lab we practiced writing more complex SQL statements to not only query specific information but also define the quantity of results and the order of our results.
